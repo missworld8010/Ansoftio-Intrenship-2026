@@ -1,0 +1,32 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Student Registration Form</title>
+</head>
+<body>
+
+<h1>Student Registration From</h1>
+
+<form>
+<lable>Full Name</label>
+<input type="text" value="tamanna shaikh"><br><br>
+
+<lable>Email:</label>
+<input type="email" value="tamanna@gmail.com"><br><br>
+
+<lable>Password:</label>
+<input type="password"value"tamanna123"><br><br>
+<label>Genden:</label><br>
+<input type="radio"name="gender">Male
+<input type="radio"name="gender">Female<br><br>
+
+<lable>Skills:</lable><br>
+<input type="checkbox"checked>HTML
+<input type="checkbox"checked>CSS
+<input type="checkbox"checked>JavaScript<br><br>
+
+<input type="submit"value="Register">
+</form>
+
+</body>
+</html>
